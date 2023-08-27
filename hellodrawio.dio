@@ -1,0 +1,45 @@
+<mxfile host="65bd71144e">
+    <diagram id="YG0hr6qdkkKt4VdCcvnR" name="Page-1">
+        <mxGraphModel dx="449" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="3" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="230" y="130" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="30" width="140" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="230" y="230" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="Ask the user to input an integer to Celsius variable&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="130" width="220" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="6">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="230" y="330" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="6" value="The calculated value form Celsius to Fahrenheit vriable.&lt;br&gt;Fahrenheit&amp;nbsp; = 9/5 * Celsius + 32" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="220" width="220" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" style="edgeStyle=none;html=1;" edge="1" parent="1" source="8">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="230" y="440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="8" value="Print the Fahrenheit temperature" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="120" y="330" width="220" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="440" width="160" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
